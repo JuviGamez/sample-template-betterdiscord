@@ -1,7 +1,6 @@
 # sample-template-betterdiscord
 A sample template for Better Discord javascript plugins!
 '''
-
 /**
  * @name MyPlugin
  * @version 1.0.0
