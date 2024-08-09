@@ -16,15 +16,9 @@ module.exports = class MyPlugin {
                 description: "A sample BetterDiscord plugin",
                 author: "AuthorName"
             }
-        };
-    }
+        }
+    };
 
-    start() {
-        console.log("MyPlugin started!");
-    }
 
-    stop() {
-        console.log("MyPlugin stopped!");
-    }
 };
 
