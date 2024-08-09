@@ -29,5 +29,5 @@ module.exports = class MyPlugin {
         console.log("MyPlugin stopped!");
     }
 };
-
 '''
+
